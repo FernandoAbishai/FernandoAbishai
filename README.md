@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Fernando Abishai</h1>
+<p align="center"><b>AI engineer · CS student · Founder @ TriHerm</b></p>
+<p align="center">
+  <a href="https://www.triherm.com">triherm.com</a> ·
+  <a href="https://fernandoabishai.me">site</a> ·
+  <a href="https://orcid.org/0009-0007-3381-7956">ORCID</a> ·
+  <a href="mailto:mail@triherm.com">mail@triherm.com</a>
+</p>
 
-<!--
-**FernandoAbishai/FernandoAbishai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FernandoAbishai&show_icons=true&hide_title=true&hide_rank=true&hide=stars&include_all_commits=true&line_height=24#gh-dark-mode-only" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FernandoAbishai&show_icons=true&hide_title=true&hide_rank=true&hide=stars&include_all_commits=true&line_height=24&theme=graywhite#gh-light-mode-only" />
+</p>
 
-Here are some ideas to get you started:
+<details open>
+<summary><b>English</b></summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Now
+- Bilingual UX templates with analytics dataLayer  
+- Long-form AI ethics content for YouTube and papers  
+- TriHerm tooling for pragmatic AI
+
+### Highlights
+- **bilingual-landing** EN-ES toggle template  
+- **ai-ethics-demos** Manim notes and code  
+- **swarm-experiments** multi-agent orchestration
+
+### Stack
+`Python` `TypeScript` `Next.js` `Tailwind` `FastAPI` `Postgres` `Supabase` `Docker` `Manim`
+</details>
+
+<details>
+<summary><b>Español</b></summary>
+
+### Ahora
+- Plantillas UX bilingües con analítica  
+- Contenido largo sobre ética de IA  
+- Herramientas de TriHerm para IA práctica
+
+### Destacados
+- **bilingual-landing**  
+- **ai-ethics-demos**  
+- **swarm-experiments**
+
+### Stack
+`Python` `TypeScript` `Next.js` `Tailwind` `FastAPI` `Postgres` `Supabase` `Docker` `Manim`
+</details>
+
+<p align="center">Open to collabs on AI ethics, pragmatic AI for SMBs, and bilingual tech content.</p>
