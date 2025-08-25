@@ -8,9 +8,19 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FernandoAbishai&show_icons=true&hide_title=true&hide_rank=true&hide=stars&include_all_commits=true&line_height=24#gh-dark-mode-only" />
-  <img src="https://github-readme-stats.vercel.app/api?username=FernandoAbishai&show_icons=true&hide_title=true&hide_rank=true&hide=stars&include_all_commits=true&line_height=24&theme=graywhite#gh-light-mode-only" />
+  <!-- Dark mode -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=FernandoAbishai&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&line_height=24&bg_color=0B1220&title_color=C084FC&text_color=E9E7FF&icon_color=F9D14A&ring_color=C084FC&hide_border=true#gh-dark-mode-only"
+    alt="Stats dark"
+  />
+  <!-- Light mode -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=FernandoAbishai&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&line_height=24&bg_color=F4F1FF&title_color=6C2BD9&text_color=0B1220&icon_color=6C2BD9&ring_color=6C2BD9&hide_border=true#gh-light-mode-only"
+    alt="Stats light"
+  />
 </p>
+
+<p align="center"><img src="./metrics.svg" alt="metrics" /></p>
 
 <details open>
 <summary><b>English</b></summary>
