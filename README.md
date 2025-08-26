@@ -28,7 +28,6 @@
 </p>
 
 
-<p align="center"><img src="./metrics.svg" alt="Profile metrics" /></p>
 
 <details open>
 <summary><b>English</b></summary>
