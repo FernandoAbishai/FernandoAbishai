@@ -8,24 +8,6 @@
 </p>
 
 
-<p align="center">
-  <picture>
-    <!-- Dark -->
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=FernandoAbishai&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&line_height=24&bg_color=0B1220&title_color=C084FC&text_color=E9E7FF&icon_color=F9D14A&hide_border=true"
-    />
-    <!-- Light -->
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=FernandoAbishai&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&line_height=24&bg_color=F4F1FF&title_color=6C2BD9&text_color=0B1220&icon_color=6C2BD9&hide_border=true"
-    />
-    <img
-      alt="GitHub stats"
-      src="https://github-readme-stats.vercel.app/api?username=FernandoAbishai&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&line_height=24&bg_color=F4F1FF&title_color=6C2BD9&text_color=0B1220&icon_color=6C2BD9&hide_border=true"
-    />
-  </picture>
-</p>
 
 
 
