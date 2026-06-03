@@ -2,9 +2,8 @@
 
 # FERNANDO ABISHAI
 
-### AI ENGINEER • COMPUTER SCIENCE • FOUNDER @ TRIHERM
+### AI ENGINEER • FULL-STACK DEVELOPER • FOUNDER @ TRIHERM
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-fernandoabishai.me-1a1a1a?style=for-the-badge&labelColor=0d0d0d)](https://fernandoabishai.me)
 [![TriHerm](https://img.shields.io/badge/TriHerm-triherm.com-1a1a1a?style=for-the-badge&labelColor=0d0d0d)](https://www.triherm.com)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--3381--7956-1a1a1a?style=for-the-badge&labelColor=0d0d0d)](https://orcid.org/0009-0007-3381-7956)
 [![Contact](https://img.shields.io/badge/Contact-mail%40triherm.com-1a1a1a?style=for-the-badge&labelColor=0d0d0d)](mailto:mail@triherm.com)
@@ -13,68 +12,116 @@
 
 ---
 
-## CURRENT OBJECTIVES
+## CURRENT FOCUS
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>ENGLISH</h3>
-      <ul style="list-style-type: none; padding-left: 0;">
-        <li>→ Bilingual UX templates with analytics dataLayer</li>
-        <li>→ Long form AI ethics content for YouTube and papers</li>
-        <li>→ TriHerm tooling for pragmatic AI</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>ESPAÑOL</h3>
-      <ul style="list-style-type: none; padding-left: 0;">
-        <li>→ Plantillas UX bilingües con analítica dataLayer</li>
-        <li>→ Contenido largo sobre ética de IA</li>
-        <li>→ Herramientas de TriHerm para IA práctica</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+Building pragmatic AI solutions for modern teams and organizations. Specializing in:
+
+- **Production AI Systems** — End-to-end AI integration, from inference optimization to deployment
+- **Bilingual/Localized Tech** — Full-stack applications supporting multiple languages and regions
+- **AI Ethics & Responsibility** — Practical frameworks for responsible AI development and deployment
+- **Technical Architecture** — Scalable systems for AI-driven applications
 
 ---
 
-## KEY PROJECTS
+## FEATURED PROJECTS
 
-| PROJECT | DESCRIPTION |
-|---------|-------------|
-| **bilingual-landing** | EN-ES toggle template for seamless multilingual UX implementation |
-| **ai-ethics-demos** | Mathematical visualizations and code exploring artificial intelligence ethics |
-| **swarm-experiments** | Multi-agent orchestration and distributed systems experimentation |
+| PROJECT | TECH STACK | HIGHLIGHTS |
+|---------|-----------|-----------|
+| **TriHerm** | React 18 • TypeScript • Vite • Stripe | Enterprise SaaS platform for pragmatic AI consulting & training |
+| **ParaInsta** | React • Gemini API • Real-time Processing | AI-powered image analysis and generation with brand integration |
+| **CravingEats** | React • TypeScript • Vite • shadcn/ui | Full-featured recipe discovery & management application |
+| **ai-ethics-demos** | Python • Manim • Mathematical Visualization | Interactive visualizations exploring AI ethics concepts |
+| **swarm-experiments** | Python • FastAPI • Multi-agent Systems | Multi-agent orchestration and distributed system experimentation |
+| **bilingual-landing** | React • React Router • i18n Context | Production-ready EN-ES toggle template with SEO optimization |
 
 ---
 
 ## TECHNICAL ARCHITECTURE
 
+### Frontend & Full-Stack
 ```
-LANGUAGES     Python          TypeScript
-FRAMEWORKS    Next.js         FastAPI
-STYLING       Tailwind CSS
-DATABASES     PostgreSQL      Supabase
-INFRASTRUCTURE Docker
-VISUALIZATION Manim
+Languages:        TypeScript • Python • JavaScript
+Frontend:         React 18 • Next.js • Vite
+Styling:          Tailwind CSS • CSS Variables • shadcn/ui
+Routing:          React Router • Next.js Router
+State & Async:    React Context • TanStack Query
+UI Primitives:    Radix UI • Headless Components
 ```
+
+### Backend & Services
+```
+APIs:             FastAPI • Express • Vercel Serverless
+Databases:        PostgreSQL • Supabase
+External APIs:    Gemini AI • Stripe • Cal.com • Tally.so
+Authentication:   OAuth • JWT
+```
+
+### Data & Visualization
+```
+Visualization:    Manim • D3.js Concepts
+Processing:       Mathematical algorithms • Data transformation
+Format Parsing:   XML/RSS • JSON • CDATA extraction
+```
+
+### DevOps & Infrastructure
+```
+Deployment:       Docker • Vercel • Self-hosted
+CI/CD:            GitHub Actions (configurable)
+Code Quality:     ESLint • TypeScript strict mode
+Testing:          Vitest • Unit testing setup
+```
+
+---
+
+## EXPERIENCE HIGHLIGHTS
+
+### AI Engineering
+- Building production-ready AI inference pipelines with optimization for latency and cost
+- Integrating LLM APIs (Gemini, OpenAI) into full-stack applications
+- Designing multi-agent systems for complex task orchestration
+
+### Full-Stack Development
+- End-to-end SaaS platforms with payment processing (Stripe integration)
+- Scalable React applications with server-side rendering
+- API design for AI-powered features
+
+### Internationalization & Localization
+- Custom i18n implementations for production applications
+- Browser language detection with persistence
+- SEO-optimized multilingual deployments
+
+### Architectural Patterns
+- Monolithic to microservices transitions
+- Component design systems (shadcn/ui, Radix UI based)
+- Real-time data handling and stream processing
 
 ---
 
 ## COLLABORATION INTERESTS
 
-```
-├── AI Ethics & Responsible AI Development
-├── Pragmatic AI Solutions for Small-Medium Businesses
-└── Multilingual Technical Content Creation
-```
+Actively seeking partnerships on:
 
-<div align="center">
+- **AI Product Development** — Building AI-first applications for enterprise and SMBs
+- **Open Source** — Contributing to AI infrastructure and developer tools
+- **Technical Writing** — Long-form content on AI ethics, architecture patterns, and best practices
+- **Consulting** — AI strategy, system design, and responsible AI implementation
 
 ---
 
-**OPEN FOR PARTNERSHIPS & TECHNICAL COLLABORATION**
+## TECH INTERESTS & LEARNING
 
-[Send Inquiry →](mailto:mail@triherm.com)
+- Distributed systems and multi-agent orchestration
+- Large language models (LLMs) and efficient inference
+- Ethical AI governance frameworks
+- Developer experience (DX) optimization
+- Real-time collaborative systems
+
+---
+
+<div align="center">
+
+**Open for technical partnerships, consulting engagements, and collaboration**
+
+[Get in touch →](mailto:mail@triherm.com)
 
 </div>
