@@ -1,48 +1,78 @@
-<h1 align="center">Fernando Abishai</h1>
-<p align="center"><b>AI engineer · CS · Founder @ TriHerm</b></p>
-<p align="center">
-  <a href="https://www.triherm.com">triherm.com</a> ·
-  <a href="https://fernandoabishai.me">site</a> ·
-  <a href="https://orcid.org/0009-0007-3381-7956">ORCID</a> ·
-  <a href="mailto:mail@triherm.com">mail@triherm.com</a>
-</p>
+<div align="center">
 
+# 🚀 Fernando Abishai
 
+### AI Engineer • Computer Science • Founder @ TriHerm
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-fernandoabishai.me-0A66C2?style=for-the-badge)](https://fernandoabishai.me)
+[![TriHerm](https://img.shields.io/badge/TriHerm-triherm.com-6366F1?style=for-the-badge)](https://www.triherm.com)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--3381--7956-A6CE39?style=for-the-badge)](https://orcid.org/0009-0007-3381-7956)
+[![Email](https://img.shields.io/badge/Email-mail%40triherm.com-EA4335?style=for-the-badge)](mailto:mail@triherm.com)
 
+</div>
 
-<details open>
-<summary><b>English</b></summary>
+---
 
-### Now
-- Bilingual UX templates with analytics dataLayer  
-- Long form AI ethics content for YouTube and papers  
-- TriHerm tooling for pragmatic AI
+## 🎯 Currently Working On
 
-### Highlights
-- **bilingual-landing** EN-ES toggle template  
-- **ai-ethics-demos** Manim notes and code  
-- **swarm-experiments** multi agent orchestration
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌍 English</h3>
+      <ul>
+        <li>Bilingual UX templates with analytics dataLayer</li>
+        <li>Long form AI ethics content for YouTube & papers</li>
+        <li>TriHerm tooling for pragmatic AI</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🇪🇸 Español</h3>
+      <ul>
+        <li>Plantillas UX bilingües con analítica</li>
+        <li>Contenido largo sobre ética de IA</li>
+        <li>Herramientas de TriHerm para IA práctica</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### Stack
-`Python` `TypeScript` `Next.js` `Tailwind` `FastAPI` `Postgres` `Supabase` `Docker` `Manim`
-</details>
+---
 
-<details>
-<summary><b>Español</b></summary>
+## ⭐ Highlighted Projects
 
-### Ahora
-- Plantillas UX bilingües con analítica  
-- Contenido largo sobre ética de IA  
-- Herramientas de TriHerm para IA práctica
+| Project | Description |
+|---------|-------------|
+| **bilingual-landing** | EN-ES toggle template for seamless multilingual experiences |
+| **ai-ethics-demos** | Manim visualizations and code exploring AI ethics |
+| **swarm-experiments** | Multi-agent orchestration and experimentation |
 
-### Destacados
-- **bilingual-landing**  
-- **ai-ethics-demos**  
-- **swarm-experiments**
+---
 
-### Stack
-`Python` `TypeScript` `Next.js` `Tailwind` `FastAPI` `Postgres` `Supabase` `Docker` `Manim`
-</details>
+## 💻 Tech Stack
 
-<p align="center">Open to collabs on AI ethics, pragmatic AI for SMBs, and bilingual tech content.</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Manim](https://img.shields.io/badge/Manim-000000?style=flat)
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm **open to collaborations** on:
+- 🤖 **AI Ethics** projects and content
+- 💼 **Pragmatic AI** solutions for SMBs  
+- 🌐 **Multilingual Tech Content** creation
+
+<div align="center">
+
+**Let's build something meaningful together!** 
+
+[Reach out →](mailto:mail@triherm.com)
+
+</div>
