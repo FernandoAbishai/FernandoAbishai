@@ -23,19 +23,6 @@ Building pragmatic AI solutions for modern teams and organizations. Specializing
 
 ---
 
-## FEATURED PROJECTS
-
-| PROJECT | TECH STACK | HIGHLIGHTS |
-|---------|-----------|-----------|
-| **TriHerm** | React 18 • TypeScript • Vite • Stripe | Enterprise SaaS platform for pragmatic AI consulting & training |
-| **ParaInsta** | React • Gemini API • Real-time Processing | AI-powered image analysis and generation with brand integration |
-| **CravingEats** | React • TypeScript • Vite • shadcn/ui | Full-featured recipe discovery & management application |
-| **ai-ethics-demos** | Python • Manim • Mathematical Visualization | Interactive visualizations exploring AI ethics concepts |
-| **swarm-experiments** | Python • FastAPI • Multi-agent Systems | Multi-agent orchestration and distributed system experimentation |
-| **bilingual-landing** | React • React Router • i18n Context | Production-ready EN-ES toggle template with SEO optimization |
-
----
-
 ## TECHNICAL ARCHITECTURE
 
 ### Frontend & Full-Stack
