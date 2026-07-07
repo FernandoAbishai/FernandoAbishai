@@ -1,114 +1,82 @@
 <div align="center">
 
-# FERNANDO ABISHAI
+# Fernando Abishai
 
-### AI ENGINEER • FULL-STACK DEVELOPER • FOUNDER @ TRIHERM
+### AI engineer, full-stack builder, and founder of TriHerm
 
-[![TriHerm](https://img.shields.io/badge/TriHerm-triherm.com-1a1a1a?style=for-the-badge&labelColor=0d0d0d)](https://www.triherm.com)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--3381--7956-1a1a1a?style=for-the-badge&labelColor=0d0d0d)](https://orcid.org/0009-0007-3381-7956)
-[![Contact](https://img.shields.io/badge/Contact-mail%40triherm.com-1a1a1a?style=for-the-badge&labelColor=0d0d0d)](mailto:mail@triherm.com)
+Building practical AI products, multilingual web systems, and technical infrastructure for teams that want to ship with clarity.
+
+[![TriHerm](https://img.shields.io/badge/TriHerm-triherm.com-111827?style=for-the-badge&labelColor=0f172a)](https://www.triherm.com)
+[![Blog](https://img.shields.io/badge/Blog-blog.triherm.com-2563eb?style=for-the-badge&labelColor=0f172a)](https://blog.triherm.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fernandom33-0a66c2?style=for-the-badge&labelColor=0f172a)](https://www.linkedin.com/in/fernandom33/)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--3381--7956-a6ce39?style=for-the-badge&labelColor=0f172a)](https://orcid.org/0009-0007-3381-7956)
+[![Contact](https://img.shields.io/badge/Contact-mail%40triherm.com-ef4444?style=for-the-badge&labelColor=0f172a)](mailto:mail@triherm.com)
 
 </div>
 
 ---
 
-## CURRENT FOCUS
+## What I Am Building
 
-Building pragmatic AI solutions for modern teams and organizations. Specializing in:
+I work at the intersection of AI engineering, product architecture, and full-stack software. My focus is turning new AI capabilities into usable systems: reliable interfaces, clear workflows, responsible automation, and infrastructure that can actually run in production.
 
-- **Production AI Systems** — End-to-end AI integration, from inference optimization to deployment
-- **Bilingual/Localized Tech** — Full-stack applications supporting multiple languages and regions
-- **AI Ethics & Responsibility** — Practical frameworks for responsible AI development and deployment
-- **Technical Architecture** — Scalable systems for AI-driven applications
+Current areas of focus:
+
+- **AI-native products** that combine LLMs, agents, retrieval, structured workflows, and human review
+- **Full-stack applications** with React, Next.js, TypeScript, Python, and API-first backend design
+- **Bilingual and localized software** for English and Spanish-speaking audiences
+- **Responsible AI implementation** with practical controls around accuracy, safety, and transparency
+- **Founder-led product work** through [TriHerm](https://www.triherm.com)
 
 ---
 
-## TECHNICAL ARCHITECTURE
+## Technical Stack
 
-### Frontend & Full-Stack
-```
-Languages:        TypeScript • Python • JavaScript
-Frontend:         React 18 • Next.js • Vite
-Styling:          Tailwind CSS • CSS Variables • shadcn/ui
-Routing:          React Router • Next.js Router
-State & Async:    React Context • TanStack Query
-UI Primitives:    Radix UI • Headless Components
-```
-
-### Backend & Services
-```
-APIs:             FastAPI • Express • Vercel Serverless
-Databases:        PostgreSQL • Supabase
-External APIs:    Gemini AI • Stripe • Cal.com • Tally.so
-Authentication:   OAuth • JWT
-```
-
-### Data & Visualization
-```
-Visualization:    Manim • D3.js Concepts
-Processing:       Mathematical algorithms • Data transformation
-Format Parsing:   XML/RSS • JSON • CDATA extraction
-```
-
-### DevOps & Infrastructure
-```
-Deployment:       Docker • Vercel • Self-hosted
-CI/CD:            GitHub Actions (configurable)
-Code Quality:     ESLint • TypeScript strict mode
-Testing:          Vitest • Unit testing setup
+```txt
+Languages        TypeScript, Python, JavaScript
+Frontend         React, Next.js, Vite, Tailwind CSS, shadcn/ui, Radix UI
+Backend          FastAPI, Express, serverless APIs, REST integrations
+Data             PostgreSQL, Supabase, JSON, RSS/XML parsing, data pipelines
+AI               OpenAI, Gemini, LLM workflows, agents, inference optimization
+Infra            Docker, Vercel, self-hosted services, GitHub Actions
+Quality          TypeScript strict mode, ESLint, Vitest, pragmatic testing
 ```
 
 ---
 
-## EXPERIENCE HIGHLIGHTS
+## Engineering Priorities
 
-### AI Engineering
-- Building production-ready AI inference pipelines with optimization for latency and cost
-- Integrating LLM APIs (Gemini, OpenAI) into full-stack applications
-- Designing multi-agent systems for complex task orchestration
-
-### Full-Stack Development
-- End-to-end SaaS platforms with payment processing (Stripe integration)
-- Scalable React applications with server-side rendering
-- API design for AI-powered features
-
-### Internationalization & Localization
-- Custom i18n implementations for production applications
-- Browser language detection with persistence
-- SEO-optimized multilingual deployments
-
-### Architectural Patterns
-- Monolithic to microservices transitions
-- Component design systems (shadcn/ui, Radix UI based)
-- Real-time data handling and stream processing
+- **Ship useful systems:** AI should reduce friction, not add another confusing layer.
+- **Design for production:** latency, cost, observability, permissions, and failure modes matter early.
+- **Keep the interface honest:** the user should know what the system can do, what it cannot do, and when a human needs to decide.
+- **Build for more than one audience:** localization, accessibility, and clear language are product requirements, not polish.
 
 ---
 
-## COLLABORATION INTERESTS
+## Writing
 
-Actively seeking partnerships on:
+I write about AI, product, and technology on [blog.triherm.com](https://blog.triherm.com/).
 
-- **AI Product Development** — Building AI-first applications for enterprise and SMBs
-- **Open Source** — Contributing to AI infrastructure and developer tools
-- **Technical Writing** — Long-form content on AI ethics, architecture patterns, and best practices
-- **Consulting** — AI strategy, system design, and responsible AI implementation
+Recent topic:
 
----
-
-## TECH INTERESTS & LEARNING
-
-- Distributed systems and multi-agent orchestration
-- Large language models (LLMs) and efficient inference
-- Ethical AI governance frameworks
-- Developer experience (DX) optimization
-- Real-time collaborative systems
+- **El rol de la IA en el desarrollo de software del futuro** — how AI is becoming part of everyday software engineering, and why the strongest teams combine human judgment with model-driven acceleration.
 
 ---
+
+## Collaboration
+
+I am interested in work around:
+
+- AI product development for startups, SMBs, and technical teams
+- LLM-powered internal tools, assistants, and workflow automation
+- Multilingual SaaS and web platforms
+- Responsible AI strategy and implementation
+- Technical writing, research, and open-source developer tools
 
 <div align="center">
 
-**Open for technical partnerships, consulting engagements, and collaboration**
+**Open to technical partnerships, consulting, and product collaborations.**
 
-[Get in touch →](mailto:mail@triherm.com)
+[Email](mailto:mail@triherm.com) · [LinkedIn](https://www.linkedin.com/in/fernandom33/) · [Blog](https://blog.triherm.com/) · [TriHerm](https://www.triherm.com)
 
 </div>
