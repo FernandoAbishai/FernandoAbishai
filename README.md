@@ -8,7 +8,6 @@ Building practical AI products, multilingual web systems, and technical infrastr
 
 [![TriHerm](https://img.shields.io/badge/TriHerm-triherm.com-111827?style=for-the-badge&labelColor=0f172a)](https://www.triherm.com)
 [![Blog](https://img.shields.io/badge/Blog-blog.triherm.com-2563eb?style=for-the-badge&labelColor=0f172a)](https://blog.triherm.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fernandom33-0a66c2?style=for-the-badge&labelColor=0f172a)](https://www.linkedin.com/in/fernandom33/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--3381--7956-a6ce39?style=for-the-badge&labelColor=0f172a)](https://orcid.org/0009-0007-3381-7956)
 [![Contact](https://img.shields.io/badge/Contact-mail%40triherm.com-ef4444?style=for-the-badge&labelColor=0f172a)](mailto:mail@triherm.com)
 
