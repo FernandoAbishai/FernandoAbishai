@@ -2,80 +2,100 @@
 
 # Fernando Abishai
 
-### AI engineer, full-stack builder, and founder of TriHerm
+### AI engineer · founder of [Triherm](https://www.triherm.com/) · technical educator
 
-Building practical AI products, multilingual web systems, and technical infrastructure for teams that want to ship with clarity.
+I build practical AI systems, agentic workflows, and full-stack software that turn fragmented business operations into reliable products.
 
-[![TriHerm](https://img.shields.io/badge/TriHerm-triherm.com-111827?style=for-the-badge&labelColor=0f172a)](https://www.triherm.com)
-[![Blog](https://img.shields.io/badge/Blog-blog.triherm.com-2563eb?style=for-the-badge&labelColor=0f172a)](https://blog.triherm.com/)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--3381--7956-a6ce39?style=for-the-badge&labelColor=0f172a)](https://orcid.org/0009-0007-3381-7956)
-[![Contact](https://img.shields.io/badge/Contact-mail%40triherm.com-ef4444?style=for-the-badge&labelColor=0f172a)](mailto:mail@triherm.com)
+[**Work with Triherm**](https://www.triherm.com/) · [YouTube](https://www.youtube.com/@FernandoAbishai) · [Writing](https://fernandoabishai.github.io/) · [LinkedIn](https://www.linkedin.com/in/fernandom33/) · [Email](mailto:mail@triherm.com)
 
 </div>
 
 ---
 
-## What I Am Building
+## What I Do
 
-I work at the intersection of AI engineering, product architecture, and full-stack software. My focus is turning new AI capabilities into usable systems: reliable interfaces, clear workflows, responsible automation, and infrastructure that can actually run in production.
+I work at the intersection of **AI engineering, software architecture, and business operations**.
 
-Current areas of focus:
+Through [Triherm](https://www.triherm.com/), I design and implement systems for:
 
-- **AI-native products** that combine LLMs, agents, retrieval, structured workflows, and human review
-- **Full-stack applications** with React, Next.js, TypeScript, Python, and API-first backend design
-- **Bilingual and localized software** for English and Spanish-speaking audiences
-- **Responsible AI implementation** with practical controls around accuracy, safety, and transparency
-- **Founder-led product work** through [TriHerm](https://www.triherm.com)
+- lead capture, qualification, and follow-up;
+- operational workflows and internal tools;
+- company knowledge and AI-assisted retrieval;
+- agentic workflows with permissions, approval gates, and human oversight;
+- bilingual products for English- and Spanish-speaking teams.
+
+My goal is not to add AI as another layer of complexity. It is to build systems that reduce manual work, improve visibility, and can operate reliably in production.
 
 ---
 
-## Technical Stack
+## Selected Work
 
-```txt
-Languages        TypeScript, Python, JavaScript
-Frontend         React, Next.js, Vite, Tailwind CSS, shadcn/ui, Radix UI
-Backend          FastAPI, Express, serverless APIs, REST integrations
-Data             PostgreSQL, Supabase, JSON, RSS/XML parsing, data pipelines
-AI               OpenAI, Gemini, LLM workflows, agents, inference optimization
-Infra            Docker, Vercel, self-hosted services, GitHub Actions
-Quality          TypeScript strict mode, ESLint, Vitest, pragmatic testing
+### [Triherm](https://www.triherm.com/) — AI systems for real business operations
+
+Triherm turns disconnected workflows, tools, and information into working systems. Current work includes lead operations, workflow automation, internal knowledge systems, and custom AI implementations.
+
+[Explore Triherm →](https://www.triherm.com/)
+
+### [ScriptCut](https://github.com/FernandoAbishai/ScriptCut) — local-first, transcript-based video editing
+
+An open-source desktop tool for cutting long-form video through the transcript, finding short clips, designing captions, and packaging content for Shorts, Reels, TikTok, and podcasts.
+
+Built with **Electron, React, FastAPI, FFmpeg, and optional AI providers**.
+
+[View the repository →](https://github.com/FernandoAbishai/ScriptCut)
+
+### [Fernando Abishai](https://www.youtube.com/@FernandoAbishai) — technical analysis and education
+
+I publish practical explainers and editorial analysis in Spanish about AI, software engineering, infrastructure, technology companies, and the systems changing business.
+
+[YouTube →](https://www.youtube.com/@FernandoAbishai) · [Writing →](https://fernandoabishai.github.io/)
+
+---
+
+## Current Technical Focus
+
+- **Production AI systems:** LLM workflows, retrieval, structured outputs, evaluation, observability, and human review.
+- **Agentic operations:** agents that act under budgets, permissions, approval gates, and auditable policies.
+- **Operational software:** systems for leads, internal processes, knowledge, and business visibility.
+- **Programmable payments:** researching stablecoin rails, Base, and agent-to-service transactions for future business systems.
+- **Local-first creator tools:** private, user-controlled software with optional AI instead of mandatory cloud dependence.
+
+---
+
+## Core Stack
+
+```text
+Languages       TypeScript, Python, JavaScript
+Frontend        React, Next.js, Vite, Tailwind CSS, shadcn/ui
+Backend         FastAPI, Node.js, REST APIs, serverless functions
+Data            PostgreSQL, Supabase, structured pipelines, retrieval systems
+AI              OpenAI, Gemini, LLM agents, RAG, evaluation, tool use
+Infrastructure  Docker, Vercel, GitHub Actions, self-hosted services
+Desktop         Electron, FFmpeg, local-first application architecture
 ```
 
 ---
 
-## Engineering Priorities
+## Work With Me
 
-- **Ship useful systems:** AI should reduce friction, not add another confusing layer.
-- **Design for production:** latency, cost, observability, permissions, and failure modes matter early.
-- **Keep the interface honest:** the user should know what the system can do, what it cannot do, and when a human needs to decide.
-- **Build for more than one audience:** localization, accessibility, and clear language are product requirements, not polish.
+I work with founders and businesses that have valuable processes still running through spreadsheets, inboxes, copy-paste, or disconnected tools.
+
+Triherm can help with:
+
+- AI system design and implementation;
+- workflow automation;
+- internal platforms and dashboards;
+- agentic prototypes and integrations;
+- bilingual product development.
+
+**Have a process that should operate like a system?**
+
+[Start with Triherm →](https://www.triherm.com/) · [Contact me](mailto:mail@triherm.com)
 
 ---
-
-## Writing
-
-I write about AI, product, and technology on [blog.triherm.com](https://blog.triherm.com/).
-
-Recent topic:
-
-- **El rol de la IA en el desarrollo de software del futuro** — how AI is becoming part of everyday software engineering, and why the strongest teams combine human judgment with model-driven acceleration.
-
----
-
-## Collaboration
-
-I am interested in work around:
-
-- AI product development for startups, SMBs, and technical teams
-- LLM-powered internal tools, assistants, and workflow automation
-- Multilingual SaaS and web platforms
-- Responsible AI strategy and implementation
-- Technical writing, research, and open-source developer tools
 
 <div align="center">
 
-**Open to technical partnerships, consulting, and product collaborations.**
-
-[Email](mailto:mail@triherm.com) · [LinkedIn](https://www.linkedin.com/in/fernandom33/) · [Blog](https://blog.triherm.com/) · [TriHerm](https://www.triherm.com)
+Building systems, publishing what I learn, and turning technical capability into practical infrastructure.
 
 </div>
