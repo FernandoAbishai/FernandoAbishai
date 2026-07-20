@@ -6,7 +6,7 @@
 
 I build practical AI systems, agentic workflows, and full-stack software that turn fragmented business operations into reliable products.
 
-[**Work with Triherm**](https://www.triherm.com/) · [YouTube](https://www.youtube.com/@FernandoAbishai) · [Writing](https://fernandoabishai.github.io/) · [LinkedIn](https://www.linkedin.com/in/fernandom33/) · [Email](mailto:mail@triherm.com)
+[**Work with Triherm**](https://www.triherm.com/) · [YouTube](https://www.youtube.com/@FernandoAbishai) · [Writing](https://blog.triherm.com/) · [Email](mailto:mail@triherm.com)
 
 </div>
 
