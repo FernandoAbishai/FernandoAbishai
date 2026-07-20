@@ -2,11 +2,11 @@
 
 # Fernando Abishai
 
-### AI engineer · founder of [Triherm](https://www.triherm.com/) · technical educator
+### AI engineer · founder of [TriHerm](https://www.triherm.com/) · technical educator
 
 I build practical AI systems, agentic workflows, and full-stack software that turn fragmented business operations into reliable products.
 
-[**Work with Triherm**](https://www.triherm.com/) · [YouTube](https://www.youtube.com/@FernandoAbishai) · [Writing](https://blog.triherm.com/) · [Email](mailto:mail@triherm.com)
+[**Work with TriHerm**](https://www.triherm.com/) · [YouTube](https://www.youtube.com/@FernandoAbishai) · [Writing](https://blog.triherm.com/) · [Email](mailto:mail@triherm.com)
 
 </div>
 
@@ -16,7 +16,7 @@ I build practical AI systems, agentic workflows, and full-stack software that tu
 
 I work at the intersection of **AI engineering, software architecture, and business operations**.
 
-Through [Triherm](https://www.triherm.com/), I design and implement systems for:
+Through [TriHerm](https://www.triherm.com/), I design and implement systems for:
 
 - lead capture, qualification, and follow-up;
 - operational workflows and internal tools;
@@ -30,11 +30,11 @@ My goal is not to add AI as another layer of complexity. It is to build systems 
 
 ## Selected Work
 
-### [Triherm](https://www.triherm.com/) — AI systems for real business operations
+### [TriHerm](https://www.triherm.com/) — AI systems for real business operations
 
-Triherm turns disconnected workflows, tools, and information into working systems. Current work includes lead operations, workflow automation, internal knowledge systems, and custom AI implementations.
+TriHerm turns disconnected workflows, tools, and information into working systems. Current work includes lead operations, workflow automation, internal knowledge systems, and custom AI implementations.
 
-[Explore Triherm →](https://www.triherm.com/)
+[Explore TriHerm →](https://www.triherm.com/)
 
 ### [ScriptCut](https://github.com/FernandoAbishai/ScriptCut) — local-first, transcript-based video editing
 
@@ -48,7 +48,7 @@ Built with **Electron, React, FastAPI, FFmpeg, and optional AI providers**.
 
 I publish practical explainers and editorial analysis in Spanish about AI, software engineering, infrastructure, technology companies, and the systems changing business.
 
-[YouTube →](https://www.youtube.com/@FernandoAbishai) · [Writing →](https://fernandoabishai.github.io/)
+[YouTube →](https://www.youtube.com/@FernandoAbishai) · [Writing →](https://blog.triherm.com/)
 
 ---
 
@@ -80,7 +80,7 @@ Desktop         Electron, FFmpeg, local-first application architecture
 
 I work with founders and businesses that have valuable processes still running through spreadsheets, inboxes, copy-paste, or disconnected tools.
 
-Triherm can help with:
+TriHerm can help with:
 
 - AI system design and implementation;
 - workflow automation;
@@ -90,7 +90,7 @@ Triherm can help with:
 
 **Have a process that should operate like a system?**
 
-[Start with Triherm →](https://www.triherm.com/) · [Contact me](mailto:mail@triherm.com)
+[Start with TriHerm →](https://www.triherm.com/) · [Contact me](mailto:mail@triherm.com)
 
 ---
 
