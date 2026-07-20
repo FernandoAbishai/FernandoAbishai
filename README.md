@@ -69,7 +69,7 @@ Languages       TypeScript, Python, JavaScript
 Frontend        React, Next.js, Vite, Tailwind CSS, shadcn/ui
 Backend         FastAPI, Node.js, REST APIs, serverless functions
 Data            PostgreSQL, Supabase, structured pipelines, retrieval systems
-AI              OpenAI, Gemini, LLM agents, RAG, evaluation, tool use
+AI              OpenAI, Codex, Claude, Gemini, LLM agents, RAG, evaluation, tool use
 Infrastructure  Docker, Vercel, GitHub Actions, self-hosted services
 Desktop         Electron, FFmpeg, local-first application architecture
 ```
