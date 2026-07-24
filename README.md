@@ -36,14 +36,6 @@ TriHerm turns disconnected workflows, tools, and information into working system
 
 [Explore TriHerm →](https://www.triherm.com/)
 
-### [ScriptCut](https://github.com/FernandoAbishai/ScriptCut) — local-first, transcript-based video editing
-
-An open-source desktop tool for cutting long-form video through the transcript, finding short clips, designing captions, and packaging content for Shorts, Reels, TikTok, and podcasts.
-
-Built with **Electron, React, FastAPI, FFmpeg, and optional AI providers**.
-
-[View the repository →](https://github.com/FernandoAbishai/ScriptCut)
-
 ### [Fernando Abishai](https://www.youtube.com/@FernandoAbishai) — technical analysis and education
 
 I publish practical explainers and editorial analysis in Spanish about AI, software engineering, infrastructure, technology companies, and the systems changing business.
